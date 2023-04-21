@@ -13,6 +13,6 @@ for i in range(a,b) :
     sum += i   # sum에 i를 더함
     
 print(f'{b} = ', end = '')
-sum += b   # sum에 b를   더함
+sum += b   # sum에 b를   더함 # test
     
 print(sum)
