@@ -1,4 +1,4 @@
-# 3개로 분기하는 조건문 branch1
+# 3개로 분기하는 조건문 branch1 test
 
 n = int(input('정수를 입력하세요. :'))
 
